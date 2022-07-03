@@ -8,7 +8,7 @@ This project is intended to help familiarize myself with web development with Py
 This project is currently in development. Future updates wil include clickable tiles for time, news, etc.
 
 #### Example:   
-![Image description](https://github.com/jmjhox/flaskApi/blob/development/images/weather%20app.PNG)
+![Image description](https://github.com/JMJHOX/flaskApi/blob/development/images/weather%20app.PNG)
 
 ## Installation and Setup Instructions
 
